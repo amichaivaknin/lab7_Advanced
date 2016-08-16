@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesCalculator", "PrimesCalculator\PrimesCalculator.csproj", "{4CEBD361-92DA-4EBE-A2FD-C0184E438916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{14145B0B-E1B5-4821-AB7F-88794590B3F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncDemo", "InterProcess\SyncDemo.csproj", "{1F60C7EA-BA10-4BB0-A26B-8EC42EBC3940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundPrimeCalc", "BackgroundPrimeCalc\BackgroundPrimeCalc.csproj", "{A8D56356-D482-4F30-8B75-1B2C91DC9E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEBD361-92DA-4EBE-A2FD-C0184E438916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEBD361-92DA-4EBE-A2FD-C0184E438916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEBD361-92DA-4EBE-A2FD-C0184E438916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEBD361-92DA-4EBE-A2FD-C0184E438916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14145B0B-E1B5-4821-AB7F-88794590B3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14145B0B-E1B5-4821-AB7F-88794590B3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14145B0B-E1B5-4821-AB7F-88794590B3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14145B0B-E1B5-4821-AB7F-88794590B3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F60C7EA-BA10-4BB0-A26B-8EC42EBC3940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F60C7EA-BA10-4BB0-A26B-8EC42EBC3940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F60C7EA-BA10-4BB0-A26B-8EC42EBC3940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F60C7EA-BA10-4BB0-A26B-8EC42EBC3940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D56356-D482-4F30-8B75-1B2C91DC9E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D56356-D482-4F30-8B75-1B2C91DC9E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D56356-D482-4F30-8B75-1B2C91DC9E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D56356-D482-4F30-8B75-1B2C91DC9E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\InterProcess\bin\Debug\InterProcess.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\InterProcess\bin\Debug\InterProcess.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\InterProcess\bin\Debug\InterProcess.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\InterProcess\obj\Debug\SyncDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\InterProcess\obj\Debug\InterProcess.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\InterProcess\obj\Debug\InterProcess.pdb

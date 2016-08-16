@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\Queues\bin\Debug\Queues.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\Queues\bin\Debug\Queues.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\Queues\bin\Debug\Queues.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\Queues\obj\Debug\Queues.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\Queues\obj\Debug\Queues.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab7_Advanced\lab7\Queues\obj\Debug\Queues.pdb
